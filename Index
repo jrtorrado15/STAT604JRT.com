@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JRT STAT 604 Page</title>
+</head>
+<body>
+  <table border="1" cellpadding="12">
+    <tr>
+      <!-- Top left: link to TAMU Statistics -->
+      <td>
+        <a href="https://artsci.tamu.edu/statistics/index.html" target="_blank">
+          Texas A&amp;M Department of Statistics
+        </a>
+      </td>
+      <!-- Top right: JRT_Pic -->
+      <td>
+         <img src="https://drive.google.com/drive/folders/1XSLJTGUqcWu36reXjpOBIY7Oq8SyBIgZ?usp=sharing/uc?export=view&id=1p?IRPS6_QE931Und61wduJpxb.cUq" alt="JRT_Pic"
+   width="150">
+      </td>
+    </tr>
+    <tr>
+      <!-- Bottom left: two-sentence biography as a list -->
+      <td>
+        <ul>
+          <li>I am Jesus Robles-Torrado student at Texas A&M College of Arts and Sciences,
+              pursuing a Masters of Science in Statistics.</li>
+          <li>My academic journey has included a Degree in Engineering in the past century, an MBA,
+              a Grad Degree in Finance and Banking, and may be seen as a fossil in this class LOL! </li>
+        </ul>
+      </td>
+      <!-- Bottom right: blank -->
+      <td></td>
+    </tr>
+  </table>
+</body>
+</html>
