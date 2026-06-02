@@ -16,7 +16,7 @@
       <!-- Top right: JRT_Pic -->
       <td>
         <img src="https://drive.google.com/file/d/1Qz5WpTPOFcI22w5j99BA6tcmD3G6FbrJ/view" alt="JRT_Pic"
-   width="150" height="150">
+   width="240" height="240">
       </td>
     </tr>
     <tr>
