@@ -15,7 +15,7 @@
       </td>
       <!-- Top right: JRT_Pic -->
       <td>
-         <img src="https://drive.google.com/uc?export=view&id=1p?IRPS6_QE931Und61wduJpxb.cUq" alt="JRT_Pic"
+         <img src="https://drive.google.com/uc?import=view&id=1p?IRPS6_QE931Und61wduJpxb.cUq" alt="JRT_Pic"
    width="150">
       </td>
     </tr>
@@ -26,7 +26,7 @@
           <li>I am Jesus Robles-Torrado student at Texas A&M College of Arts and Sciences,
               pursuing a Masters of Science in Statistics.</li>
           <li>My academic journey has included a Degree in Engineering in the past century, an MBA,
-              a Grad Degree in Finance and Banking, and may be seen as a fossil in this class LOL! </li>
+              a Grad Degree in Finance and Banking! </li>
         </ul>
       </td>
       <!-- Bottom right: blank -->
